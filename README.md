@@ -21,12 +21,8 @@ Clean and preprocess the raw Netflix dataset by handling missing values, duplica
 ## Deliverables
 - **Notebook with code** (`Clean_netflix_dataset.ipynb`)
 - **Cleaned dataset** (`Cleaned_Netflix_dataset.csv`)  
-- **Raw dataset** (`netflix_titles.csv`)  
-
-- 
-- **Screenshots** showing before/after cleaning  
-- **Short summary** of changes  
-
+- **Raw dataset** (`netflix_titles.csv`)   
+  
 ## Outcome
 The cleaned dataset is consistent, free from duplicates, missing values handled, and enriched with new features, making it ready for analysis and visualization.
 
