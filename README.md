@@ -19,9 +19,10 @@ Clean and preprocess the raw Netflix dataset by handling missing values, duplica
 6. Created new features: `added_year`, `added_month`, `primary_genre`, `primary_country`, `num_cast`.  
 
 ## Deliverables
-- **Notebook with code** (`Clean_netflix_dataset.ipynb`)  
+- **Notebook with code** (`Clean_netflix_dataset.ipynb`)
+- **Cleaned dataset** (`Cleaned_Netflix_dataset.csv`)  
 - **Raw dataset** (`netflix_titles.csv`)  
-- **Cleaned dataset** (`netflix_titles_cleaned.csv`)  
+
 - 
 - **Screenshots** showing before/after cleaning  
 - **Short summary** of changes  
